@@ -1,13 +1,14 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #C0C0C0;
 }
 
 #header
 {
 	background: #ccc;
 	padding: 20px;
+	background-color : #1E90FF;
 }
 
 #header h1 { margin: 0; }
